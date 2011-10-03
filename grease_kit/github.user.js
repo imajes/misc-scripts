@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name           github code
 // @description    niceify github's pre blocks
+// @include        https://gist.github.com/*
 // @include        https://github.com/*
 // ==/UserScript==
 var style;

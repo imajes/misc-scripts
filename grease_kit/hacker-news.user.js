@@ -14,6 +14,7 @@
 // @include        http://en.wikipedia.org/*
 // @include        http://flickr.com/*
 // @include        http://www.flickr.com/*
+// @include        https://rpm.newrelic.com/*
 // ==/UserScript==
 var style;
 
